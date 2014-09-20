@@ -1,4 +1,9 @@
-Batch-Encode-Subtitle
+Batch Encode Subtitle
 =====================
 
-Mencoder script for batch encode subtitles on movies 
+Simple batch script for encoding subtitle using mencoder
+
+-Case insensitive
+-Files must have same name
+-Set right charset for latin subtitles
+
