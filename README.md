@@ -1,11 +1,19 @@
-Batch Encode Subtitle
-=====================
+Subvid - subtitle encoder
+=========================
 
-Simple batch script for encoding subtitle using mencoder
+Simple shell script for encoding subtitle using mencoder
 
 -Case insensitive
 
--Files must have same name
+-Files should have same name
 
--Set right charset for latin subtitles
+-Recursive search
+
+
+Usage
+=====
+
+Copy or move your movies and subtitles to same folder
+
+Run ./subvid.sh into your movies folder
 
